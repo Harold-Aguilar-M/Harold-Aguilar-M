@@ -7,8 +7,9 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 ```javascript
 
 const Stack = {
-  languajes: ['Javascript','Python','C'],
-  tools: ['Node.js','Vue.js','Express.js','Pugs'],
+  languajes: ['Javascript','PHP','Python','C','SQL'],
+  tools: ['Node.js','CodeIgniter','JQuery','Vue.js','Express.js','Pug JS'],
+  databases: ['MariaDB','MySQL']
   ide: 'VsCode'
 }
 
