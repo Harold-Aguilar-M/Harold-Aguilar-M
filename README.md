@@ -7,10 +7,10 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 ```javascript
 
 const Stack = {
-  languajes: ['Javascript','PHP','Python','C','SQL'],
-  tools: ['Node.js','CodeIgniter','JQuery','Vue.js','Express.js','Pug JS'],
+  languajes: ['Javascript','PHP','Python','C','SQL','Bash','HTML','CSS'],
+  tools: ['Node.js','CodeIgniter','JQuery','Vue.js','Express.js','Pug JS','Docker','Git','SVN'],
   databases: ['MariaDB','MySQL']
-  ide: 'VsCode'
+  editor: 'Visual Studio Code'
 }
 
 ```
